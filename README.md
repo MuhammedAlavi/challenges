@@ -1,3 +1,3 @@
 # challenges
 My programming challenges.
-https://img.shields.io/amo/dw/233?label=the%20vlaue&logo=the%20other%20value
+[![Generic badge](https://img.shields.io/badge/<SUBJECT>-<STATUS>-<COLOR>.svg)](https://shields.io/)
